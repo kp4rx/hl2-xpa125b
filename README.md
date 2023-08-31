@@ -29,7 +29,7 @@ To test the interface a breadboard prototype was built.
 ## XPA125b Hardware Modification
 A female TRRS jack is added to the back panel of the XPA125b providing external access to the front panel buttons. The XPA Buttons are 3.3V pulled down on press. Each positive Lead and a ground are routed to the TRRS jack. Each Button Circuit is controlled through a 2N2222 Transistor, base is connected to the gpio pin with a 10K resistor, button positive to collector and emmiter to ground. **DO NOT CONNECT THE BUTTON LEADS DIRECTLY TO THE PICO!**
 
-## #Button to pin Mapping (J1):
+## Button to pin Mapping (J1):
 | Button |  TRRS  | Pico |
 |:------:|:------:|:----:|
 |  Power |   Tip  |  GP20  |
