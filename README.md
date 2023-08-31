@@ -89,6 +89,6 @@ This project was inspired by the following projects:
 More Information may be available at [kp4rx.com](https://kp4rx.com). If you need assitance you can reach me at {myfirstname}@kp4rx.com.
 
 ## License
-You may use, modify, and/or redistribute the code and produce the hardware for personal use or for profit as long as you make reference to this Repository and it's author. You are more than welcome to submit changes and modifications to the repo as long as the main purpose doesn'gets lost.
+You may use, modify, and/or redistribute the code and produce the hardware for personal use or for profit as long as you make reference to this Repository and it's author. You are more than welcome to submit changes and modifications to the repo as long as the main purpose doesn't gets lost.
 
 73 de KP4RX - Ramon L. Ramos
