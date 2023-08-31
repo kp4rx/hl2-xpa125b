@@ -1,4 +1,4 @@
-# HL2 to XPA125B Interface
+# HL2 to XPA125b Interface
 
 Click on the icon left to the file name to use the navigation menu.
 
