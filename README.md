@@ -5,8 +5,8 @@ Click on the icon left to the file name to use the navigation menu.
 ## Purpose
 The purpose of this project is to interface the [Hermes Lite 2 SDR Transceiver](http://hermeslite.com) with [Xiegu's XPA125b HF amplifier](https://www.cqxiegu.com/productinfo/798788.html). The interface reads the serial data coming from the HL2 to provide Automatic Band switching and enables some remote control capabilities for the Amplifier like power, amplifier, and ATU control through a web interface or http get requests. To receive the serial data from the HL2 the [DB9 companion board](https://github.com/softerhardware/Hermes-Lite2/tree/master/hardware/companions/db9) needs to be installed on the HL2 with at least one level shifter or a similar serial interface.
 
-## IMPORTANT NOTE
-** Do Not connect directly to the I/O Board DB9 port without some level shifting circuit as the I/O Board Serial is 5V and the Pico by default is 3.3V **
+[!WARNING]
+**Do Not connect directly to the I/O Board DB9 port without some level shifting circuit as the I/O Board Serial is 5V and the Pico by default is 3.3V**
 
 ## Disclaimer
 I'm no electrical engineer or software developer by any means, my scarce electronics knowledge has been acquired from reading and experimentation. This is my first attempt to build a real-world usable hardware and software (Besides Mechanical Keyboards) and my first dive at MicroPython or Python whatsoever. There are no warranties or guarantees. I take no responsibility for any damage you may cause to your equipment or any personal injury suffered while trying this, Use at your own Risk.
